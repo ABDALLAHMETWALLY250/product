@@ -1,0 +1,60 @@
+{
+    "products": [
+      {
+        "id":1,
+        "P_Name": "Grapes",
+        "P_Price": 2100  ,
+        "P_Rate": 4.5,
+        "image": "https://www9.0zz0.com/2023/05/19/12/483608025.png"
+      },
+      {
+        "id":2,
+        "P_Name": "Strawberry",
+        "P_Price": 5000  ,
+        "P_Rate": 5,
+        "image": "https://www9.0zz0.com/2023/05/19/12/408168717.png"
+
+      },
+      {
+        "id":3,
+        "P_Name": "Onion",
+        "P_Price": 4000  ,
+        "P_Rate": 4,
+        "image": "https://www9.0zz0.com/2023/05/19/12/389303106.png"
+
+      },
+      
+      {
+        "id":4,
+        "P_Name": "Rice",
+        "P_Price": 3000  ,
+        "P_Rate": 3.5,
+        "image": "https://www8.0zz0.com/2023/05/19/12/288601968.png"
+
+      },
+      {
+        "id":5,
+        "P_Name": "Eggs",
+        "P_Price": 3500  ,
+        "P_Rate": 4,
+        "image": "https://www8.0zz0.com/2023/05/19/12/870394554.png"
+
+      }
+      ,
+      {
+        "id":6,
+        "P_Name": "Apple",
+        "P_Price": 4000  ,
+        "P_Rate": 4.5,
+        "image": "https://www8.0zz0.com/2023/05/19/12/992481671.png"
+      }
+      ,
+      {
+        "id":7,
+        "P_Name": "Rice",
+        "P_Price": 3000  ,
+        "P_Rate": 4,
+        "image": "https://www7.0zz0.com/2023/05/19/13/735000247.png"
+      }
+    ]
+  }
